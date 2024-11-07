@@ -45,6 +45,7 @@ def menu():
         print("2. Search for Authorized Vehicles")
         print("3. ADD Authorized Vehicle")
         print("4. Exit")
+        print("********************************")
 
         choice = input("           ")
 
